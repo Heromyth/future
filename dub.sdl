@@ -1,0 +1,8 @@
+name "future"
+description "asynchronous return values and related functionality"
+copyright "Copyright © 2016, Vlad Levenfeld"
+authors "Vlad Levenfeld"
+license "MIT"
+targetType "executable"
+versions "Toolkit_Debug"
+versions "Toolkit_Debug_More1"
