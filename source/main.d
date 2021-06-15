@@ -23,6 +23,6 @@ void main() {
             return x * factor; 
         }));    
 
-    ex2a.resolve(30); // throw a exception!
+    ex2a.resolve(30); // throw an exception!
 }
 
